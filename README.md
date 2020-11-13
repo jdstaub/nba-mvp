@@ -8,11 +8,14 @@ Goals:
 * Create a predictor for the NBA MVP based on per game and advanced statistics pulled from basketball-reference.com.
 * Determine most important features in an MVP candidate.
 
+Visit https://public.tableau.com/profile/dylan.staub#!/vizhome/nba-mvp/Dashboard1?publish=yes for a Tableau Workbook of the analysis.
+
 ## Technologies
 
 I used:
 
 * python
+* Tableau
 * jupyter notebooks
 * numpy
 * pandas
